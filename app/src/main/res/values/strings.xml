@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Try2102</string>
+    <string name="name">Название</string>
+    <string name="lname">Разновидность</string>
+    <string name="age">Тепличное ли?</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">Произошла ошибка</string>
+    <string name="insert_success">Запись добавлена</string>
+</resources>
